@@ -1,6 +1,6 @@
 C2024
 --
-![F3FE03C2-2157-4308-ABAF-338A5275B13D_1_201_a](https://github.com/maxconine/8013-2024-Crescendo-Imported-v2/assets/58146795/191848ec-dabc-4496-be2c-9f4f57d91866)
+![324946203-191848ec-dabc-4496-be2c-9f4f57d91866](https://github.com/user-attachments/assets/18054805-b7c8-4c0d-823a-697da49e66d6)
 
 Code for Team 8013's 2024 robot, Crepe Flipper.
 
